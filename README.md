@@ -1,6 +1,6 @@
 <h1 align="center">　Hi! 👾 I'm Snowaterice
     <span>
-        <img src="./assets/bunny-turtle.gif" style="position:relative; top: 12px; right:5px;" width="50"/>
+        <img src="./assets/bunny-turtle.gif" style="position:relative; top: 12px; right:5px;" width="40"/>
     </span>
 </h1>
 <h3 align="center">A Frontend Developer Intern from Taiwan🌈</h3>
@@ -16,16 +16,16 @@
     About me
 </h2>
 
-* ##### 🙍‍♂️ Student
-* ##### 🎮 Game Player
-* ##### 👻 Yeap! That's all
+* #### 🙍‍♂️ Student
+* #### 🎮 Game Player
+* #### 👻 Yeap! That's all
 
 <h2 align="left">📢 Doing</h2>
 
-* ##### 🎨 Design and make my website
-* ##### 🤖 Make a discord robot
-* ##### 👓 Try to use some cool JS libraries and frameworks
-* ##### 🚌 Develop an useful website or app with TDX API service
+* #### 🎨 Design and make my website
+* #### 🤖 Make a discord robot
+* #### 👓 Try to use some cool JS libraries and frameworks
+* #### 🚌 Develop an useful website or app with TDX API service
 
 <h2 align="left">📘 Learning</h2>
 <p align="left">
@@ -85,7 +85,7 @@
         alt="Pr"
     />
     <img
-        src="./assets/illustrator.png"
+        src="./assets/Illustrator.png"
         height="50"
         alt="Ai"
     />
